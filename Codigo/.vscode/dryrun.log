@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/lazaro/Escritorio/PracticasSCD'
+make: Leaving directory '/home/lazaro/Escritorio/PracticasSCD'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+ 
